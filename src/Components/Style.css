@@ -14,7 +14,7 @@ body, html {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('https://images.pexels.com/photos/7120330/pexels-photo-7120330.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-image: url("/public/Assets/background.jpg");
     background-size: cover;
     background-position: center;
 }
